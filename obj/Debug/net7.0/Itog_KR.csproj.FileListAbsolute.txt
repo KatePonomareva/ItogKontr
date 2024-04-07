@@ -1,0 +1,14 @@
+/Users/ekaterinaponomareva/Desktop/Itog_KR/bin/Debug/net7.0/Itog_KR
+/Users/ekaterinaponomareva/Desktop/Itog_KR/bin/Debug/net7.0/Itog_KR.deps.json
+/Users/ekaterinaponomareva/Desktop/Itog_KR/bin/Debug/net7.0/Itog_KR.runtimeconfig.json
+/Users/ekaterinaponomareva/Desktop/Itog_KR/bin/Debug/net7.0/Itog_KR.dll
+/Users/ekaterinaponomareva/Desktop/Itog_KR/bin/Debug/net7.0/Itog_KR.pdb
+/Users/ekaterinaponomareva/Desktop/Itog_KR/obj/Debug/net7.0/Itog_KR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaponomareva/Desktop/Itog_KR/obj/Debug/net7.0/Itog_KR.AssemblyInfoInputs.cache
+/Users/ekaterinaponomareva/Desktop/Itog_KR/obj/Debug/net7.0/Itog_KR.AssemblyInfo.cs
+/Users/ekaterinaponomareva/Desktop/Itog_KR/obj/Debug/net7.0/Itog_KR.csproj.CoreCompileInputs.cache
+/Users/ekaterinaponomareva/Desktop/Itog_KR/obj/Debug/net7.0/Itog_KR.dll
+/Users/ekaterinaponomareva/Desktop/Itog_KR/obj/Debug/net7.0/refint/Itog_KR.dll
+/Users/ekaterinaponomareva/Desktop/Itog_KR/obj/Debug/net7.0/Itog_KR.pdb
+/Users/ekaterinaponomareva/Desktop/Itog_KR/obj/Debug/net7.0/Itog_KR.genruntimeconfig.cache
+/Users/ekaterinaponomareva/Desktop/Itog_KR/obj/Debug/net7.0/ref/Itog_KR.dll
